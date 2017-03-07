@@ -14,6 +14,6 @@ Create your own unique Github default profile image
 
 5. If successful, the terminal will return `:ok` and a file called foo.png will have been created in the main directory of the app
 
-6. Simply run `open foo.png` to see the file! And there you go, each image will be unique as long as the string you entered is unique. Enjoy!
+6. Exit the code runner thing by hitting ctrl c twice,  then simply run `open foo.png` to see the file! And there you go, each image will be unique as long as the string you entered is unique. Enjoy!
 
 ### This app is part of an Elixir & Phoenix course on Udemy by Stephen Grider, which can be found [here](https://www.udemy.com/the-complete-elixir-and-phoenix-bootcamp-and-tutorial/). I highly recommend this course!
