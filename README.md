@@ -4,7 +4,7 @@ Create your own unique Github default profile image
 
 ## Getting Started
 
-1. Make sure you have Elixir installed. If you don't, then install Homebrew (or run `homebrew update` if you already have it installed) then run `brew install elixir`. It will take a while.
+1. Make sure you have Elixir installed. If you don't, then install Homebrew (or run `brew update` if you already have it installed) then run `brew install elixir`. It will take a while.
 
 2. Clone this repo with `git clone https://github.com/thomasrobertgee/identicon-elixir.git`
 
